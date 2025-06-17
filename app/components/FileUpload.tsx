@@ -74,3 +74,7 @@ const FileUpload = ({ onSuccess, onProgress, fileType }: FileUploadProps) => {
 };
 
 export default FileUpload;
+
+
+
+//File Upload
